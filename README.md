@@ -16,7 +16,7 @@ Below are some features in detail:
 
 ## Demo
 
-You can try out the Expense Tracker app live [here](https://example.com).
+You can try out the Expense Tracker app live [here](https://Arshad-isageek.github.io/Track-Expenses).
 
 ## Screenshots
 
@@ -66,4 +66,4 @@ To run the Expense Tracker app locally, follow these steps:
 ## Video Representation
 
 1. For more information on how it works and connection, please visit the link below:
-   https://github.com/Arshad-isageek/EXPENSE-TRACK.git
+   https://github.com/Arshad-isageek/Track-Expenses.git
